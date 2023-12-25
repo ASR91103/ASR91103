@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for help to start my journey.
 - 📫 How to reach me shradha91103@gmail.com
+- ✨ Fun Fact I am also a writer on Quora.
 
 <!---
 ASR91103/ASR91103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
