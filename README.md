@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASR91103
-- 👀 I’m an Intern at PTC, working on their product called named creo.
+- 👀 I’m an Intern at PTC, working on their product named as creo.
 - 🌱 I’m currently learning Angular.
 - 📫 How to reach me shradha91103@gmail.com
 - ✨ Fun Fact I am also a writer on Quora.
