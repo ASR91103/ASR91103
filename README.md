@@ -1,3 +1,10 @@
+
+<h1 align="center">Hey there 👋, I'm Shradha Arsewar.</h1>
+<h3 align="center">I'm an Computer Science enthusiast, who also likes to explore new tools and technologies.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ASR91103-7&label=Profile%20views&color=0e75b6&style=flat" alt="ASR91103" /> </p>
+
+
 - 👋 Hi, I’m @ASR91103
 - 👀 I’m an Intern at PTC, working on their product named as creo.
 - 🌱 I’m currently learning Angular.
